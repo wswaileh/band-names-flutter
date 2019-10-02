@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "440000331619",
+    "firebase_url": "https://bandnamessurvey-c336c.firebaseio.com",
+    "project_id": "bandnamessurvey-c336c",
+    "storage_bucket": "bandnamessurvey-c336c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440000331619:android:a0212bd4ec6cb622479d56",
+        "android_client_info": {
+          "package_name": "com.swaileh.band_names"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440000331619-t7af1jbto8tjof0s5hu651e5ikcnptgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdA22y0FT-B_2G9BQwvPx6BTeOiwyuie0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440000331619-t7af1jbto8tjof0s5hu651e5ikcnptgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
